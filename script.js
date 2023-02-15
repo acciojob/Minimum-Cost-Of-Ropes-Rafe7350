@@ -1,4 +1,5 @@
 //your code here
+//your code here
 function minCost(event) {
 	event.preventDefault();
 	var input = document.querySelector("input").value;
